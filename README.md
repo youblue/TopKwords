@@ -46,3 +46,6 @@ hadoop jar target/mapreduce-0.0.1-SNAPSHOT.jar mapreduce.TopK
 # Check output result:
 hadoop fs -text output/part-r-00000
 ```
+
+## References
+https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
